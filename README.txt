@@ -1,4 +1,4 @@
-To run this project, double click the 'contactList.html' file which will open the project on your preferred browser.
+To run this project, download project files and double click the 'contactList.html' file which will open the project on your preferred browser.
 
 I have used both Bootstrap and Vue.js CDNs within this project.
 
