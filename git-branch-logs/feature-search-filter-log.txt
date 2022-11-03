@@ -1,0 +1,35 @@
+commit b3197c3b52f19fc5f04e358d4028d6d8a5473b73
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Thu Jun 16 03:59:29 2022 +0100
+
+    feat: added filter icon to filter button and added label to clear button
+
+commit 619c7ca61ca5a1c5d26da388ea78cc8e4787c26c
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Thu Jun 16 03:32:16 2022 +0100
+
+    feat: added functionality to the filter button
+
+commit ee9751f4e74cdd2386cb194a59fe84cc987f4f2d
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Thu Jun 16 02:17:59 2022 +0100
+
+    feat: added functionality to the clear filter input button
+
+commit b0c58f7c5c5b4a97812ec2ccaf1fa4bb9e5e0ba5
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Thu Jun 16 02:05:11 2022 +0100
+
+    feat: created the static body of webpage
+
+commit 109acb1198611b7681881ecfa5f816f7c4bfe445
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Wed Jun 15 23:50:15 2022 +0100
+
+    feat: added navbar
+
+commit 3299bbe164bc69881c2bc55d2de1f3b8dee02013
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Wed Jun 15 23:33:55 2022 +0100
+
+    first commit: added html template with bootstrap and vue cdn

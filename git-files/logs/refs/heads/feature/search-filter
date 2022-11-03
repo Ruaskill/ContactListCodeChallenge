@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 109acb1198611b7681881ecfa5f816f7c4bfe445 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655341337 +0100	branch: Created from develop
+109acb1198611b7681881ecfa5f816f7c4bfe445 b0c58f7c5c5b4a97812ec2ccaf1fa4bb9e5e0ba5 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655341511 +0100	commit: feat: created the static body of webpage
+b0c58f7c5c5b4a97812ec2ccaf1fa4bb9e5e0ba5 ee9751f4e74cdd2386cb194a59fe84cc987f4f2d Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655342279 +0100	commit: feat: added functionality to the clear filter input button
+ee9751f4e74cdd2386cb194a59fe84cc987f4f2d ee9751f4e74cdd2386cb194a59fe84cc987f4f2d Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655346662 +0100	Branch: renamed refs/heads/feature/contact-table to refs/heads/feature/search-filter
+ee9751f4e74cdd2386cb194a59fe84cc987f4f2d 619c7ca61ca5a1c5d26da388ea78cc8e4787c26c Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655346736 +0100	commit: feat: added functionality to the filter button
+619c7ca61ca5a1c5d26da388ea78cc8e4787c26c b3197c3b52f19fc5f04e358d4028d6d8a5473b73 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655348369 +0100	commit: feat: added filter icon to filter button and added label to clear button

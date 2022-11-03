@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 b39dbea7b8aa5404ef97a7e27451c414e3022206 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655351154 +0100	branch: Created from develop
+b39dbea7b8aa5404ef97a7e27451c414e3022206 52abe2dd422d086a2104f7d9c83b8ddedd3fd3a3 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655354303 +0100	commit: feat: added modal template which opens when 'add contact' button is clicked
+52abe2dd422d086a2104f7d9c83b8ddedd3fd3a3 c25be1a017bce9d4cd59fe771c6fa62b03842eee Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655354410 +0100	commit: feat: added functionality to modal cancel button
+c25be1a017bce9d4cd59fe771c6fa62b03842eee 8ce72d3fa393004d647cb8cbdeaebe8ea0caffc0 Ruaskill <69593117+Ruaskill@users.noreply.github.com> 1655358590 +0100	commit: feat: added functionality to the 'add contact' button. adds new contact to list

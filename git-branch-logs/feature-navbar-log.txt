@@ -1,0 +1,11 @@
+commit 109acb1198611b7681881ecfa5f816f7c4bfe445
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Wed Jun 15 23:50:15 2022 +0100
+
+    feat: added navbar
+
+commit 3299bbe164bc69881c2bc55d2de1f3b8dee02013
+Author: Ruaskill <69593117+Ruaskill@users.noreply.github.com>
+Date:   Wed Jun 15 23:33:55 2022 +0100
+
+    first commit: added html template with bootstrap and vue cdn
